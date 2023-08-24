@@ -1,7 +1,6 @@
 # Noom
 
 Zoom Clone using NodeJS, WebRTC and Websockets.
-https://nomadcoders.co/noom
 ---
 동일한 방 이름을 입력하면 1:1 화상통화가 가능한 실시간 웹서비스를 구현함.
 
@@ -23,3 +22,6 @@ https://nomadcoders.co/noom
 🙂 배운 점
 - HTTP와 Websocket의 차이점, socket.io, WebRTC 개념과 사용법을 익힘.
 - pug를 이용해 html 코드를 깔끔하게 작성할 수 있게 됨.
+
+
+https://nomadcoders.co/noom
